@@ -1,0 +1,34 @@
+body {
+  background-color: #000;
+  color: #BBB;
+	font-family​: sans-serif​;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  width: 720px;
+  padding: 10px 10px;
+  margin: 20px auto;
+}
+
+h1, h2 {
+  color: hotpink;
+  padding: 10px 0px;
+}
+
+h1 {
+  padding: 20px 0px;
+  text-align: center;
+}
+
+p {
+  padding: 0px 20px;
+}
+
+.math {
+  color: hotpink;
+}
+
+#animation {
+  width: 100%;
+  margin: 0px;
+}
