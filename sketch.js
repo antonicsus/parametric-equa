@@ -20,7 +20,7 @@ function setup() {
 }
 
 function draw() {
-  background(19);
+  background(25);
   translate(width/2, height/2);
   for (var i = anilines.length-1; i > 0; i--) {
     anilines[i].move();
